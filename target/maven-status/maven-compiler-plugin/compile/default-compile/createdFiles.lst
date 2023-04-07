@@ -1,0 +1,6 @@
+com\tej\sampleapp\Student\Student.class
+com\tej\sampleapp\Student\StudentService.class
+com\tej\sampleapp\Student\StudentConfig.class
+com\tej\sampleapp\SampleApplication.class
+com\tej\sampleapp\Student\StudentRepository.class
+com\tej\sampleapp\Student\StudentController.class
